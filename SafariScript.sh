@@ -1,2 +1,2 @@
 #!/bin/bash
-defaults write com.apple.Safari WarnAboutFraudulentWebsites -bool false
+defaults write ~/Library/Containers/com.apple.Safari/Data/Library/Preferences/com.apple.Safari WarnAboutFraudulentWebsites -bool false
